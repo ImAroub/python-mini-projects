@@ -10,7 +10,7 @@ A graphical Tic-Tac-Toe game built with **Python and Tkinter**.
 
 The game supports Player vs. Computer and Player vs. Player modes, with simple rule-based logic used for computer moves.
 
-[View Project](./tic-tac-toe)
+[View Project](./tic_tac_toe)
 
 ## Technologies
 
